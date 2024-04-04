@@ -1,4 +1,4 @@
-#  Mean and variance of a discrete  distribution
+#  Ex-1 Mean and variance of a discrete  distribution
 ### Developed by : H. AARON
 
 ### Register number : 212223040001
